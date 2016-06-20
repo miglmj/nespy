@@ -1,3 +1,6 @@
+# NES ROM Files
+*.nes
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -87,6 +90,3 @@ ENV/
 
 # Rope project settings
 .ropeproject
-
-# NES ROM Files
-*.nes
